@@ -29,3 +29,6 @@ THEN the password is either displayed in an alert or written to the page
 
 # Notes
 I did not succesfully complete this challenge because it was pretty difficult for me but I will be going back to make changes and resubmit again.
+
+# Deploy URL
+https://jackiem2.github.io/Jacqueline-friendly-parakeet/
