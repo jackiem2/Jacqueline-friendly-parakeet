@@ -31,6 +31,7 @@ alert("Password must be between 8 and 128 characters");
 // Generate password
 function generatePassword() {
   var password = passwordCriteria();
+  
 
 }
 // Write password to the #password input
